@@ -39,4 +39,5 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
     git switch -c <nombre-feature>
     ```
 
+* Realizar cambios
 * Hacer la Pull Requests 🚀
