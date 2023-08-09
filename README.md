@@ -18,3 +18,25 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 ### Archivos estructurados
 
 * [JSON CRACK](https://jsoncrack.com/): Aplicación que transforma JSON, YAML,XML, CSV y mas en gráficos interactivos. Y ademas, tiene extension para VSCode.
+
+## Contribuir
+
+* Descargar el proyecto
+
+    ``` bash
+    git clone https://github.com/carlosfernandezcabrero/recursos-programacion.git
+    ```
+
+* Instalar dependencias
+
+    ``` bash
+    [pnpm|yarn|npm] install
+    ```
+
+* Crear rama para realizar el cambio
+
+    ``` bash
+    git switch -c <nombre-feature>
+    ```
+
+* Hacer la Pull Requests 🚀
