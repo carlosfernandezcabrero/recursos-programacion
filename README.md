@@ -1,5 +1,7 @@
 # Recursos de programación 🧑‍💻
 
+Proyecto para inventariar recursos de programación para utilizar en nuestros desarrollos.
+
 ## HTML
 
 * [caninclude](https://caninclude.glitch.me/): Herramienta que te ayuda a determinar si una etiqueta HTML se puede incluir en otra etiqueta HTML.
