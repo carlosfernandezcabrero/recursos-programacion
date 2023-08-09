@@ -4,6 +4,10 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 ## Recursos
 
+### Web
+
+* [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
+
 ### HTML
 
 * [caninclude](https://caninclude.glitch.me/): Herramienta que te ayuda a determinar si una etiqueta HTML se puede incluir en otra etiqueta HTML.
