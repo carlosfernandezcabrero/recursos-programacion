@@ -12,6 +12,10 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 * [caninclude](https://caninclude.glitch.me/): Herramienta que te ayuda a determinar si una etiqueta HTML se puede incluir en otra etiqueta HTML.
 
+### Imagenes
+
+* [Squoosh](https://squoosh.app/): Herramienta para optimizar, convertir a otro formato y cambiar de tamaño tus imágenes para que tu pagina web vaya como un 🚀.
+
 ### SVG
 
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
