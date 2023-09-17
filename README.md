@@ -26,6 +26,7 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 ### Parsers
 
 * [JSON CRACK](https://jsoncrack.com/): Aplicación que transforma JSON, YAML,XML, CSV y mas en gráficos interactivos. Y ademas, tiene extension para VSCode.
+* [quicktype](https://app.quicktype.io/): Aplicación web que genera serializadores y modelos fuertemente tipados a partir de documentos JSON, JSON Schema, TypeScript y GraphQL.
 
 ## Contribuir
 
