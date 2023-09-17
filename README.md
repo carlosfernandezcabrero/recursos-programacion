@@ -23,7 +23,7 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 * [svgrepo](https://www.svgrepo.com/): Colección con mas de 500.000 iconos y vectores SVG.
 * [tabler icons io](https://tabler-icons.io/): Colección con mas de 4600 iconos pixel-perfect para tus diseños web.
 
-### Archivos estructurados
+### Parsers
 
 * [JSON CRACK](https://jsoncrack.com/): Aplicación que transforma JSON, YAML,XML, CSV y mas en gráficos interactivos. Y ademas, tiene extension para VSCode.
 
