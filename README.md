@@ -4,6 +4,10 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 ## Recursos
 
+## Lógica de programación
+
+* [Online Compiler, Visual Debugger, and AI Tutor for Python, Java, C, C++, and JavaScript](https://pythontutor.com/): Python Tutor te ayuda a realizar tareas de programación en Python, Java, C, C++ y JavaScript. Contiene un depurador visual paso a paso único y un tutor de IA para ayudarle a comprender y depurar el código.
+
 ### Web
 
 * [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
