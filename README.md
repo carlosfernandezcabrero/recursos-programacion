@@ -10,6 +10,7 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 ### Web
 
+* [Cool Contrast](https://coolcontrast.vercel.app/): Inspeccione el contraste, obtenga una vista previa de los elementos de la interfaz de usuario y obtenga sugerencias para combinaciones de colores optimizadas utilizando el estándar WCAG.
 * [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
 * [lychee](https://github.com/lycheeverse/lychee/): Herramienta para validar tu página web escrita en Rust. Esta herramienta te ayudara a mejorar el SEO de tu sitio web.
 
