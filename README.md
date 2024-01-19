@@ -14,6 +14,7 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 * [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
 * [lychee](https://github.com/lycheeverse/lychee/): Herramienta para validar tu página web escrita en Rust. Esta herramienta te ayudara a mejorar el SEO de tu sitio web.
 * [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): Herramienta que codifica los SVG para poderlos utilizar con CSS.
+* [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma): Extension para navegadores basados en Chrome que analiza la salud de las paginas webs a las que entras.
 
 ### HTML
 
