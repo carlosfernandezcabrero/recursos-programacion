@@ -28,6 +28,7 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
 * [svgrepo](https://www.svgrepo.com/): Colección con mas de 500.000 iconos y vectores SVG.
 * [tabler icons io](https://tabler-icons.io/): Colección con mas de 4600 iconos pixel-perfect para tus diseños web.
+* [lucide](https://lucide.dev/): Librería de hermosos y consistentes iconos disponibles para Vue, React, Preact, Solidjs, Svelte, Angular, React Native, Javascript, Laravel, Eleventy y Nuxt. Ademas se pueden utilizar de forma estática.
 
 ### Parsers
 
