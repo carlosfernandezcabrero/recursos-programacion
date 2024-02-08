@@ -4,12 +4,17 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 ## Recursos
 
+### Datos
+
+* [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértalo en un punto final de API. Empieza a buscar.
+
 ### Lógica de programación
 
 * [Online Compiler, Visual Debugger, and AI Tutor for Python, Java, C, C++, and JavaScript](https://pythontutor.com/): Python Tutor te ayuda a realizar tareas de programación en Python, Java, C, C++ y JavaScript. Contiene un depurador visual paso a paso único y un tutor de IA para ayudarle a comprender y depurar el código.
 
 ### Web
 
+* [web code tools](https://webcode.tools/): Generador de código para desarrollo front-end.
 * [Cool Contrast](https://coolcontrast.vercel.app/): Inspeccione el contraste, obtenga una vista previa de los elementos de la interfaz de usuario y obtenga sugerencias para combinaciones de colores optimizadas utilizando el estándar WCAG.
 * [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
 * [lychee](https://github.com/lycheeverse/lychee/): Herramienta para validar tu página web escrita en Rust. Esta herramienta te ayudara a mejorar el SEO de tu sitio web.
