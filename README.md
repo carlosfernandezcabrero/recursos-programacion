@@ -4,6 +4,10 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 ## Recursos
 
+### SQL
+
+* [SQLFlow](sqlflow.gudusoft․com): ¡Crea diagramas visuales de tus consultas SQL!
+
 ### Datos
 
 * [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértalo en un punto final de API. Empieza a buscar.
