@@ -4,6 +4,12 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 ## Recursos
 
+### BBDD
+
+* [Neon](https://neon.tech/): Postgres sin servidor totalmente administrado con un generoso nivel gratuito.
+* [PlanetScale](https://planetscale.com/): Base de datos MySQL totalmente administrada.
+* [Turso](https://turso.tech/): Turso es una base de datos compatible con SQLite construida sobre libSQL, la bifurcación Open Contribution de SQLite. Permite escalar a cientos de miles de bases de datos por organización y admite la replicación en cualquier ubicación, incluidos sus propios servidores, para un acceso con latencia de microsegundos.
+
 ### SQL
 
 * [SQLFlow](sqlflow.gudusoft․com): ¡Crea diagramas visuales de tus consultas SQL!
