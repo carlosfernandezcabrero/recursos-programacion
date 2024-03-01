@@ -83,12 +83,6 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
     git clone https://github.com/carlosfernandezcabrero/recursos-programacion.git
     ```
 
-- Instalar dependencias
-
-    ``` bash
-    [pnpm|yarn|npm] install
-    ```
-
 - Crear rama para realizar el cambio
 
     ``` bash
