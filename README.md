@@ -27,6 +27,9 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 - [PlanetScale](https://planetscale.com/): Base de datos MySQL totalmente administrada.
 - [Turso](https://turso.tech/): Turso es una base de datos compatible con SQLite construida sobre libSQL, la bifurcación Open Contribution de SQLite. Permite escalar a cientos de miles de bases de datos por organización y admite la replicación en cualquier ubicación, incluidos sus propios servidores, para un acceso con latencia de microsegundos.
 - [MongoDB](https://www.mongodb.com/es/atlas/database): Base de datos en la nube de MongoDB.
+### Clientes BBDD
+
+- [Dataflare](https://dataflare.app/): Administre fácilmente su tabla, vea datos, escriba SQL y ejecute consultas.
 
 ### Clientes HTTP
 
