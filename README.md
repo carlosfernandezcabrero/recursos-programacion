@@ -28,6 +28,16 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 - [Turso](https://turso.tech/): Turso es una base de datos compatible con SQLite construida sobre libSQL, la bifurcación Open Contribution de SQLite. Permite escalar a cientos de miles de bases de datos por organización y admite la replicación en cualquier ubicación, incluidos sus propios servidores, para un acceso con latencia de microsegundos.
 - [MongoDB](https://www.mongodb.com/es/atlas/database): Base de datos en la nube de MongoDB.
 
+### Clientes HTTP
+
+- [httpie](https://httpie.io/): HTTPie simplifica las API
+e intuitivo para quienes construyen
+las herramientas de nuestro tiempo.
+- [Hoppscotch](https://hoppscotch.io/): Le ayuda a crear solicitudes más rápido, ahorrando un tiempo precioso en el desarrollo.
+- [Postman](https://www.postman.com/): Postman es una plataforma API para crear y utilizar API. Postman simplifica cada paso del ciclo de vida de la API y agiliza la colaboración para que puedas crear mejores API y más rápido.
+- [Insomnia](https://insomnia.rest/): Diseñar, depurar y probar API
+localmente o en la nube.
+
 ### SQL
 
 - [SQLFlow](sqlflow.gudusoft․com): ¡Crea diagramas visuales de tus consultas SQL!
