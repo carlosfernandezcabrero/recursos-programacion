@@ -35,7 +35,8 @@ Proyecto para inventariar recursos de programación para utilizar en nuestros de
 
 - [PocketBase](https://pocketbase.io/): Servidor de código abierto
 para su próxima aplicación móvil y SaaS
-en 1 archivo
+en 1 archivo.
+- [NocoDB](https://nocodb.com/): NocoDB permite crear soluciones de bases de datos sin código con la facilidad de las hojas de cálculo.
 
 ### Buscadores
 
