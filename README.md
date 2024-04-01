@@ -56,6 +56,7 @@ las herramientas de nuestro tiempo.
 - [Insomnia](https://insomnia.rest/): Diseñar, depurar y probar API
 localmente o en la nube.
 - [Yaak](https://yaak.app/): Yaak es una aplicación mínima para REST, GraphQL y gRPC*.
+- [bruno](https://www.usebruno.com/): Bruno es un cliente API de código abierto rápido y compatible con Git, cuyo objetivo es revolucionar el status quo representado por Postman, Insomnia y herramientas similares.
 
 ### Datos
 
