@@ -72,6 +72,8 @@ localmente o en la nube.
 - [svgrepo](https://www.svgrepo.com/): Colección con mas de 500.000 iconos y vectores SVG.
 - [tabler icons io](https://tabler-icons.io/): Colección con mas de 4600 iconos pixel-perfect para tus diseños web.
 - [lucide](https://lucide.dev/): Librería de hermosos y consistentes iconos disponibles para Vue, React, Preact, Solidjs, Svelte, Angular, React Native, Javascript, Laravel, Eleventy y Nuxt. Ademas se pueden utilizar de forma estática.
+- [yesicon](https://yesicon.app/): 169 Conjuntos de Iconos de Código Abierto y Gratis. Una Herramienta Útil para que Desarrolladores y Diseñadores.
+- [css.gg](https://css.gg/): Iconos CSS, SVG y Figma de código abierto.
 
 ### Imágenes
 
