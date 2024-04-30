@@ -1,6 +1,6 @@
 # Recursos de programación 🧑‍💻
 
-Proyecto para inventariar recursos de programación para utilizar en nuestros desarrollos.
+Proyecto para inventariar recursos de programación.
 
 ## Tabla de contenidos
 
