@@ -69,6 +69,7 @@ localmente o en la nube.
 - [PlanetScale](https://planetscale.com/): Base de datos MySQL totalmente administrada.
 - [Turso](https://turso.tech/): Turso es una base de datos compatible con SQLite construida sobre libSQL, la bifurcación Open Contribution de SQLite. Permite escalar a cientos de miles de bases de datos por organización y admite la replicación en cualquier ubicación, incluidos sus propios servidores, para un acceso con latencia de microsegundos.
 - [MongoDB](https://www.mongodb.com/es/atlas/database): Base de datos en la nube de MongoDB.
+- [D1](https://www.cloudflare.com/es-es/developer-platform/d1/): Crea una base de datos relacional sin servidor en segundos con D1. Con un lenguaje de consulta SQL conocido, la recuperación a un punto en el tiempo y precios asequibles, puedes desarrollar tu próximo éxito. Creada por Cloudflare.
 
 ### HTML
 
