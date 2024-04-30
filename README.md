@@ -7,7 +7,6 @@ Proyecto para inventariar recursos de programación.
 - [Recursos de programación 🧑‍💻](#recursos-de-programación-)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Recursos](#recursos)
-    - [BBDD](#bbdd)
     - [Backends](#backends)
     - [Buscadores](#buscadores)
     - [Clientes BBDD](#clientes-bbdd)
@@ -15,6 +14,7 @@ Proyecto para inventariar recursos de programación.
     - [Cursos](#cursos)
       - [Rust](#rust)
     - [Datos](#datos)
+    - [Hosting de BBDD](#hosting-de-bbdd)
     - [HTML](#html)
     - [Iconos](#iconos)
     - [Imágenes](#imágenes)
@@ -25,13 +25,6 @@ Proyecto para inventariar recursos de programación.
   - [Contribuir](#contribuir)
 
 ## Recursos
-
-### BBDD
-
-- [Neon](https://neon.tech/): Postgres sin servidor totalmente administrado con un generoso nivel gratuito.
-- [PlanetScale](https://planetscale.com/): Base de datos MySQL totalmente administrada.
-- [Turso](https://turso.tech/): Turso es una base de datos compatible con SQLite construida sobre libSQL, la bifurcación Open Contribution de SQLite. Permite escalar a cientos de miles de bases de datos por organización y admite la replicación en cualquier ubicación, incluidos sus propios servidores, para un acceso con latencia de microsegundos.
-- [MongoDB](https://www.mongodb.com/es/atlas/database): Base de datos en la nube de MongoDB.
 
 ### Backends
 
@@ -69,6 +62,13 @@ localmente o en la nube.
 ### Datos
 
 - [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértalo en un punto final de API. Empieza a buscar.
+
+### Hosting de BBDD
+
+- [Neon](https://neon.tech/): Postgres sin servidor totalmente administrado con un generoso nivel gratuito.
+- [PlanetScale](https://planetscale.com/): Base de datos MySQL totalmente administrada.
+- [Turso](https://turso.tech/): Turso es una base de datos compatible con SQLite construida sobre libSQL, la bifurcación Open Contribution de SQLite. Permite escalar a cientos de miles de bases de datos por organización y admite la replicación en cualquier ubicación, incluidos sus propios servidores, para un acceso con latencia de microsegundos.
+- [MongoDB](https://www.mongodb.com/es/atlas/database): Base de datos en la nube de MongoDB.
 
 ### HTML
 
