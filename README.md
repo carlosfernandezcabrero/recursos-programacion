@@ -61,7 +61,7 @@ localmente o en la nube.
 
 ### Datos
 
-- [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértalo en un punto final de API. Empieza a buscar.
+- [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértelo en un punto final de API. Empieza a buscar.
 
 ### Hosting de BBDD
 
