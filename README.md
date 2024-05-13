@@ -111,6 +111,7 @@ localmente o en la nube.
 - [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma): Extension para navegadores basados en Chrome que analiza la salud de las paginas webs a las que entras.
 - [CSS Code Quality](https://www.projectwallace.com/css-code-quality): Calcule la puntuación de calidad del código de su CSS en función de una variedad de controles de calidad diferentes.
 - [CSS Analyzer](https://www.projectwallace.com/analyze-css): Conjunto de analizadores CSS que verifican su complejidad, especificidad, rendimiento, tokens de diseño y mucho más. Y todo ello en una única aplicación web.
+- [Omatsuri](https://omatsuri.app/): Colección de 12 herramientas para programadores Web.
 
 ## Contribuir
 
