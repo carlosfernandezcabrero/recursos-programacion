@@ -41,6 +41,7 @@ en 1 archivo.
 ### Clientes BBDD
 
 - [Dataflare](https://dataflare.app/): Administre fácilmente su tabla, vea datos, escriba SQL y ejecute consultas.
+- [DbGate](https://dbgate.org/): El cliente de base de datos SQL+noSQL más inteligente. Soporta bases de datos MySQL, PostgreSQL, MS SQL, MongoDB, SQLite and y otras. Funciona en Linux, MacOs y Windows.
 
 ### Clientes Git
 
