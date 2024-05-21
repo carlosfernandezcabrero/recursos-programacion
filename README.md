@@ -16,12 +16,12 @@ Proyecto para inventariar recursos de programación.
     - [Clientes BBDD](#clientes-bbdd)
     - [Clientes Git](#clientes-git)
     - [Clientes HTTP](#clientes-http)
-    - [Datos](#datos)
+    - [Debuggers](#debuggers)
+    - [Generadores](#generadores)
     - [Hosting de BBDD](#hosting-de-bbdd)
     - [HTML](#html)
     - [Iconos](#iconos)
     - [Imágenes](#imágenes)
-    - [Lógica de programación](#lógica-de-programación)
     - [Parsers](#parsers)
     - [SQL](#sql)
     - [Web](#web)
@@ -73,9 +73,14 @@ localmente o en la nube.
 - [Yaak](https://yaak.app/): Yaak es una aplicación mínima para REST, GraphQL y gRPC*.
 - [bruno](https://www.usebruno.com/): Bruno es un cliente API de código abierto rápido y compatible con Git, cuyo objetivo es revolucionar el status quo representado por Postman, Insomnia y herramientas similares.
 
-### Datos
+### Debuggers
+
+- [Online Compiler, Visual Debugger, and AI Tutor for Python, Java, C, C++, and JavaScript](https://pythontutor.com/): Python Tutor te ayuda a realizar tareas de programación en Python, Java, C, C++ y JavaScript. Contiene un depurador visual paso a paso único y un tutor de IA para ayudarle a comprender y depurar el código.
+
+### Generadores
 
 - [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértelo en un punto final de API. Empieza a buscar.
+- [quicktype](https://app.quicktype.io/): Aplicación web que genera serializadores y modelos fuertemente tipados a partir de documentos JSON, JSON Schema, TypeScript y GraphQL.
 
 ### Hosting de BBDD
 
@@ -102,14 +107,9 @@ localmente o en la nube.
 
 - [Squoosh](https://squoosh.app/): Herramienta para optimizar, convertir a otro formato y cambiar de tamaño tus imágenes para que tu pagina web vaya como un 🚀.
 
-### Lógica de programación
-
-- [Online Compiler, Visual Debugger, and AI Tutor for Python, Java, C, C++, and JavaScript](https://pythontutor.com/): Python Tutor te ayuda a realizar tareas de programación en Python, Java, C, C++ y JavaScript. Contiene un depurador visual paso a paso único y un tutor de IA para ayudarle a comprender y depurar el código.
-
 ### Parsers
 
 - [JSON CRACK](https://jsoncrack.com/): Aplicación que transforma JSON, YAML,XML, CSV y mas en gráficos interactivos. Y ademas, tiene extension para VSCode.
-- [quicktype](https://app.quicktype.io/): Aplicación web que genera serializadores y modelos fuertemente tipados a partir de documentos JSON, JSON Schema, TypeScript y GraphQL.
 
 ### SQL
 
