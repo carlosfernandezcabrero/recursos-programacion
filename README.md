@@ -6,6 +6,8 @@ Proyecto para inventariar recursos de programación.
 
 - [Recursos de programación 🧑‍💻](#recursos-de-programación-)
   - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Artículos](#artículos)
+    - [Diseño](#diseño)
   - [Recursos](#recursos)
     - [Backends](#backends)
     - [Buscadores](#buscadores)
@@ -24,6 +26,12 @@ Proyecto para inventariar recursos de programación.
     - [SQL](#sql)
     - [Web](#web)
   - [Contribuir](#contribuir)
+
+## Artículos
+
+### Diseño
+
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 ## Recursos
 
