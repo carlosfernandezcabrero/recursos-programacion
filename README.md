@@ -8,14 +8,14 @@ Proyecto para inventariar recursos de programación.
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Artículos](#artículos)
     - [Diseño](#diseño)
+  - [Cursos](#cursos)
+    - [Rust](#rust)
   - [Recursos](#recursos)
     - [Backends](#backends)
     - [Buscadores](#buscadores)
     - [Clientes BBDD](#clientes-bbdd)
     - [Clientes Git](#clientes-git)
     - [Clientes HTTP](#clientes-http)
-    - [Cursos](#cursos)
-      - [Rust](#rust)
     - [Datos](#datos)
     - [Hosting de BBDD](#hosting-de-bbdd)
     - [HTML](#html)
@@ -32,6 +32,12 @@ Proyecto para inventariar recursos de programación.
 ### Diseño
 
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
+## Cursos
+
+### Rust
+
+- Google: [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
 ## Recursos
 
@@ -66,12 +72,6 @@ las herramientas de nuestro tiempo.
 localmente o en la nube.
 - [Yaak](https://yaak.app/): Yaak es una aplicación mínima para REST, GraphQL y gRPC*.
 - [bruno](https://www.usebruno.com/): Bruno es un cliente API de código abierto rápido y compatible con Git, cuyo objetivo es revolucionar el status quo representado por Postman, Insomnia y herramientas similares.
-
-### Cursos
-
-#### Rust
-
-- Google: [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
 ### Datos
 
