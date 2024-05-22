@@ -107,6 +107,10 @@ localmente o en la nube.
 
 - [Squoosh](https://squoosh.app/): Herramienta para optimizar, convertir a otro formato y cambiar de tamaño tus imágenes para que tu pagina web vaya como un 🚀.
 
+### Lenguajes de programación
+
+- [learnxinyminutes](https://learnxinyminutes.com/): Hojas de trucos de multiples lenguajes.
+
 ### Parsers
 
 - [JSON CRACK](https://jsoncrack.com/): Aplicación que transforma JSON, YAML,XML, CSV y mas en gráficos interactivos. Y ademas, tiene extension para VSCode.
