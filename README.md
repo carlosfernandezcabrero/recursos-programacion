@@ -81,6 +81,7 @@ localmente o en la nube.
 ### Generadores
 
 - [JSON Data AI](https://www.jsondataai.com/): Obtenga datos de JSON sobre cualquier cosa con un mensaje. Conviértelo en un punto final de API. Empieza a buscar.
+- [REST API Generator](https://retool.com/api-generator): Genere un conjunto de datos personalizado en el que pueda leer y escribir a través de una API REST.
 - [quicktype](https://app.quicktype.io/): Aplicación web que genera serializadores y modelos fuertemente tipados a partir de documentos JSON, JSON Schema, TypeScript y GraphQL.
 
 ### Hosting de BBDD
