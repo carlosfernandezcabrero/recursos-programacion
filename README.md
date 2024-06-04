@@ -60,6 +60,7 @@ en 1 archivo.
 ### Clientes Git
 
 - [RelaGit](https://rela.dev/): Cliente de control de versiones moderno para desarrolladores.
+- [lazygit](https://github.com/jesseduffield/lazygit): Interfaz de usuario de terminal simple para git.
 
 ### Clientes HTTP
 
