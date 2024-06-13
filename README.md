@@ -26,6 +26,8 @@ Proyecto para inventariar recursos de programación.
     - [Parsers](#parsers)
     - [SQL](#sql)
     - [Web](#web)
+      - [Catálogos de componentes](#catálogos-de-componentes)
+      - [Herramientas](#herramientas)
   - [Contribuir](#contribuir)
 
 ## Artículos
@@ -122,6 +124,10 @@ localmente o en la nube.
 - [SQLFlow](https://sqlflow.gudusoft․com/#/): ¡Crea diagramas visuales de tus consultas SQL!
 
 ### Web
+
+#### Catálogos de componentes
+
+#### Herramientas
 
 - [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
 - [web code tools](https://webcode.tools/): Generador de código para desarrollo front-end.
