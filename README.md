@@ -22,6 +22,7 @@ Proyecto para inventariar recursos de programación.
     - [HTML](#html)
     - [Iconos](#iconos)
     - [Imágenes](#imágenes)
+    - [Tutoriales](#tutoriales)
     - [Parsers](#parsers)
     - [SQL](#sql)
     - [Web](#web)
@@ -108,7 +109,7 @@ localmente o en la nube.
 
 - [Squoosh](https://squoosh.app/): Herramienta para optimizar, convertir a otro formato y cambiar de tamaño tus imágenes para que tu pagina web vaya como un 🚀.
 
-### Lenguajes de programación
+### Tutoriales
 
 - [learnxinyminutes](https://learnxinyminutes.com/): Hojas de trucos de multiples lenguajes.
 
