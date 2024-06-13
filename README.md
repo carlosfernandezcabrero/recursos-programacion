@@ -127,6 +127,8 @@ localmente o en la nube.
 
 #### Catálogos de componentes
 
+- [ui.ibelick](https://ui.ibelick.com/): Colección de componentes y efectos para modo oscuro.
+
 #### Herramientas
 
 - [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
