@@ -10,6 +10,7 @@ Proyecto para inventariar recursos de programación.
     - [Diseño](#diseño)
   - [Cursos](#cursos)
     - [Rust](#rust)
+    - [Python](#python)
   - [Recursos](#recursos)
     - [Backends](#backends)
     - [Buscadores](#buscadores)
@@ -41,6 +42,8 @@ Proyecto para inventariar recursos de programación.
 ### Rust
 
 - Google: [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+
+### Python
 
 ## Recursos
 
