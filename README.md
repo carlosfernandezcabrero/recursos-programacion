@@ -162,5 +162,5 @@ localmente o en la nube.
     git switch -c <nombre-feature>
     ```
 
-- Realizar cambios. Si se va a añadir una nueva sección, añadirla en orden alfabético.
+- Realizar cambios. Si se va a añadir una nueva sección, añadirla en orden alfabético. Revisar también si esa sección o item no esta ya en el archivo.
 - Hacer la Pull Requests 🚀
