@@ -98,7 +98,6 @@ localmente o en la nube.
 
 ### Iconos
 
-- [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
 - [svgrepo](https://www.svgrepo.com/): Colección con mas de 500.000 iconos y vectores SVG.
 - [tabler icons io](https://tabler-icons.io/): Colección con mas de 4600 iconos pixel-perfect para tus diseños web.
 - [lucide](https://lucide.dev/): Librería de hermosos y consistentes iconos disponibles para Vue, React, Preact, Solidjs, Svelte, Angular, React Native, Javascript, Laravel, Eleventy y Nuxt. Ademas se pueden utilizar de forma estática.
@@ -123,6 +122,7 @@ localmente o en la nube.
 
 ### Web
 
+- [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
 - [web code tools](https://webcode.tools/): Generador de código para desarrollo front-end.
 - [Cool Contrast](https://coolcontrast.vercel.app/): Inspeccione el contraste, obtenga una vista previa de los elementos de la interfaz de usuario y obtenga sugerencias para combinaciones de colores optimizadas utilizando el estándar WCAG.
 - [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
