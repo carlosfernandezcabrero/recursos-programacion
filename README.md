@@ -45,6 +45,8 @@ Proyecto para inventariar recursos de programación.
 
 ### Python
 
+- IBM: [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+
 ## Recursos
 
 ### Backends
