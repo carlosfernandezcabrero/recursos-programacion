@@ -155,6 +155,7 @@ localmente o en la nube.
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/): Crea un conjunto de sombras CSS exuberantes y realistas.
 - [ColorContrast.App](https://colorcontrast.app/): Verifique y sugiera colores para cumplir con la relación de contraste WCAG o APCA requerida.
 - [ColorContrastChecker](https://coolors.co/contrast-checker/112a46-acc8e5): Calcule la relación de contraste del texto y los colores de fondo.
+- [ColourContrastChecker](https://colourcontrast.cc/ffe66b/000f44): Calcule la relación de contraste del texto y los colores de fondo.
 
 ## Contribuir
 
