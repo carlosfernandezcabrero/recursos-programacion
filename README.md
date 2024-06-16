@@ -154,6 +154,7 @@ localmente o en la nube.
 - [Omatsuri](https://omatsuri.app/): Colección de 12 herramientas para programadores Web.
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/): Crea un conjunto de sombras CSS exuberantes y realistas.
 - [ColorContrast.App](https://colorcontrast.app/): Verifique y sugiera colores para cumplir con la relación de contraste WCAG o APCA requerida.
+- [ColorContrastChecker](https://coolors.co/contrast-checker/112a46-acc8e5): Calcule la relación de contraste del texto y los colores de fondo.
 
 ## Contribuir
 
