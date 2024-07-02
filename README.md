@@ -57,7 +57,7 @@ para su próxima aplicación móvil y SaaS
 en 1 archivo.
 - [NocoDB](https://nocodb.com/): NocoDB permite crear soluciones de bases de datos sin código con la facilidad de las hojas de cálculo.
 
-### Buscadores
+### 🔎 Buscadores
 
 - [CodeMate](https://codemate.bot/): El revolucionario motor de búsqueda para desarrolladores impulsado con IA y con la opción de ver las fuentes que ha usado para generar la respuesta.
 
@@ -93,7 +93,7 @@ localmente o en la nube.
 - [REST API Generator](https://retool.com/api-generator): Genere un conjunto de datos personalizado en el que pueda leer y escribir a través de una API REST.
 - [quicktype](https://app.quicktype.io/): Aplicación web que genera serializadores y modelos fuertemente tipados a partir de documentos JSON, JSON Schema, TypeScript y GraphQL.
 
-### Hosting de BBDD
+### 🗄️ Hosting de BBDD
 
 - [Neon](https://neon.tech/): Postgres sin servidor totalmente administrado con un generoso nivel gratuito.
 - [PlanetScale](https://planetscale.com/): Base de datos MySQL totalmente administrada.
