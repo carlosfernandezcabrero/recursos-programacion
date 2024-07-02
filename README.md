@@ -145,6 +145,7 @@ localmente o en la nube.
 ##### ⚡ Rendimiento
 
 - [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma): Extension para navegadores basados en Chrome que analiza la salud de las paginas webs a las que entras.
+- [Unlighthouse](https://unlighthouse.dev/): Unlighthouse es una herramienta para escanear todo su sitio con Google Lighthouse en 2 minutos.
 
 ##### Otros
 
