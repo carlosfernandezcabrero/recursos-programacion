@@ -142,6 +142,12 @@ localmente o en la nube.
 
 #### Herramientas
 
+##### ⚡ Rendimiento
+
+- [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma): Extension para navegadores basados en Chrome que analiza la salud de las paginas webs a las que entras.
+
+##### Otros
+
 - [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
 - [web code tools](https://webcode.tools/): Generador de código para desarrollo front-end.
 - [Cool Contrast](https://coolcontrast.vercel.app/): Inspeccione el contraste, obtenga una vista previa de los elementos de la interfaz de usuario y obtenga sugerencias para combinaciones de colores optimizadas utilizando el estándar WCAG.
