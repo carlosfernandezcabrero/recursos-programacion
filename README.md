@@ -155,7 +155,6 @@ localmente o en la nube.
 - [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
 - [lychee](https://github.com/lycheeverse/lychee/): Herramienta para validar tu página web escrita en Rust. Esta herramienta te ayudara a mejorar el SEO de tu sitio web.
 - [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): Herramienta que codifica los SVG para poderlos utilizar con CSS.
-- [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma): Extension para navegadores basados en Chrome que analiza la salud de las paginas webs a las que entras.
 - [CSS Code Quality](https://www.projectwallace.com/css-code-quality): Calcule la puntuación de calidad del código de su CSS en función de una variedad de controles de calidad diferentes.
 - [CSS Analyzer](https://www.projectwallace.com/analyze-css): Conjunto de analizadores CSS que verifican su complejidad, especificidad, rendimiento, tokens de diseño y mucho más. Y todo ello en una única aplicación web.
 - [Omatsuri](https://omatsuri.app/): Colección de 12 herramientas para programadores Web.
