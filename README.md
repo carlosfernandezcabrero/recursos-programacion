@@ -145,7 +145,7 @@ localmente o en la nube.
 
 #### Componentes
 
-- [Cally](The Python zlib extension was not compiled. Missing the zlib?): Componentes de calendario ligeros y ricos en funciones
+- [Cally](https://wicky.nillia.ms/cally/): Componentes de calendario ligeros y ricos en funciones
 
 #### Herramientas
 
