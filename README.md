@@ -22,7 +22,7 @@ Proyecto para inventariar recursos de programación.
     - [🗄️ Hosting de BBDD](#️-hosting-de-bbdd)
     - [HTML](#html)
     - [Iconos](#iconos)
-    - [Ilustarciones](#ilustarciones)
+    - [Ilustraciones](#ilustraciones)
     - [Imágenes](#imágenes)
     - [Tutoriales](#tutoriales)
     - [Parsers](#parsers)
@@ -117,7 +117,7 @@ localmente o en la nube.
 - [css.gg](https://css.gg/): Iconos CSS, SVG y Figma de código abierto.
 - [MingCute Icon](https://www.mingcute.com/): MingCute es un conjunto de biblioteca de iconos de código abierto simple y exquisita. Ya seas diseñador o desarrollador, es perfecto para usar en la web y en dispositivos móviles.
 
-### Ilustarciones
+### Ilustraciones
 
 - [unDraw](https://undraw.co/): Ilustraciones de código abierto para cualquier idea que puedas imaginar y crear.
 
