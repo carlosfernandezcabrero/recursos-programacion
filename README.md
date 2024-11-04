@@ -124,6 +124,7 @@ localmente o en la nube.
 ### Imágenes
 
 - [Squoosh](https://squoosh.app/): Herramienta para optimizar, convertir a otro formato y cambiar de tamaño tus imágenes para que tu pagina web vaya como un 🚀.
+- [imgto.xyz](https://imgto.xyz/): Optimice y comprima fácilmente sus imágenes para ayudar a mejorar el rendimiento. ¡Todo gratis!
 
 ### Tutoriales
 
