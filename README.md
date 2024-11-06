@@ -27,6 +27,7 @@ Proyecto para inventariar recursos de programación.
     - [Tutoriales](#tutoriales)
     - [Parsers](#parsers)
     - [SQL](#sql)
+    - [SVG](#svg)
     - [Web](#web)
       - [Catálogos de componentes](#catálogos-de-componentes)
       - [Componentes](#componentes)
@@ -138,6 +139,10 @@ localmente o en la nube.
 
 - [SQLFlow](https://sqlflow.gudusoft․com/#/): ¡Crea diagramas visuales de tus consultas SQL!
 
+### SVG
+
+- [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
+
 ### Web
 
 #### Catálogos de componentes
@@ -157,7 +162,6 @@ localmente o en la nube.
 
 ##### Otros
 
-- [SVGOMG](https://jakearchibald.github.io/svgomg/): Herramienta que optimiza los SVG de forma sencilla.
 - [web code tools](https://webcode.tools/): Generador de código para desarrollo front-end.
 - [Cool Contrast](https://coolcontrast.vercel.app/): Inspeccione el contraste, obtenga una vista previa de los elementos de la interfaz de usuario y obtenga sugerencias para combinaciones de colores optimizadas utilizando el estándar WCAG.
 - [Can I use](https://caniuse.com/): ¿Quieres saber si una tecnología front-end esta soportada en los principales navegadores? Pues esta pagina te lo dice y te permite filtrar por los que te interesan.
