@@ -43,6 +43,7 @@ Proyecto para inventariar recursos de programación.
 ### Diseño
 
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [The Designer’s Guide to Letter-Spacing](https://www.webdesignerdepot.com/2020/07/the-designers-guide-to-letter-spacing/)
 
 ## Cursos
 
