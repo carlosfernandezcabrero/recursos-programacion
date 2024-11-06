@@ -34,6 +34,8 @@ Proyecto para inventariar recursos de programación.
       - [Herramientas](#herramientas)
         - [⚡ Rendimiento](#-rendimiento)
         - [Otros](#otros)
+  - [Videos](#videos)
+    - [SaaS](#saas)
   - [Contribuir](#contribuir)
 
 ## Artículos
@@ -174,6 +176,12 @@ localmente o en la nube.
 - [ColorContrast.App](https://colorcontrast.app/): Verifique y sugiera colores para cumplir con la relación de contraste WCAG o APCA requerida.
 - [ColorContrastChecker](https://coolors.co/contrast-checker/112a46-acc8e5): Calcule la relación de contraste del texto y los colores de fondo.
 - [ColourContrastChecker](https://colourcontrast.cc/ffe66b/000f44): Calcule la relación de contraste del texto y los colores de fondo.
+
+## Videos
+
+### SaaS
+
+- [Alternativas Abiertas y Gratis a Software as a Service que todos usamos (SaaS)](https://youtu.be/A5CK0JIcJxA?si=A8-lQHwlWZyfiDl8): Si estás cansado de pagar suscripciones mensuales por herramientas como Notion, Zoom, Slack, o software similares, en este video, exploramos alternativas open source a los SaaS más populares, ¡permitiéndote ahorrar dinero y tener control total sobre tus datos! Desde gestión de proyectos con Plane hasta videollamadas con Jitsi, descubre software libre que puedes desplegar en tus propios servidores. Aprende cómo reducir costos y mantener la privacidad con estas opciones que replican las funcionalidades de herramientas populares. ¡Dale un giro a tu negocio con estas alternativas abiertas!
 
 ## Contribuir
 
