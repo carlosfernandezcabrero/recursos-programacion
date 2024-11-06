@@ -151,6 +151,7 @@ localmente o en la nube.
 #### Catálogos de componentes
 
 - [ui.ibelick](https://ui.ibelick.com/): Colección de componentes y efectos para modo oscuro.
+- [shadcn/ui](https://ui.shadcn.com/): Componentes bellamente diseñados que puedes copiar y pegar en tus aplicaciones. Hecho con Tailwind CSS. Código abierto.
 
 #### Componentes
 
